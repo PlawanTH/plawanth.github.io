@@ -1,0 +1,14 @@
+.footer--copyright {
+    padding: 0 30px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.footer--logo {
+    align-items: flex-end;
+    padding: 0 30px;
+}
+
+.footer--logo > img {
+    max-height: 50px;
+}

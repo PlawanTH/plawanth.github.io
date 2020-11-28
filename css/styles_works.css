@@ -1,0 +1,21 @@
+#works .content span {
+    color: #f37835;
+}
+
+.works--wrapper__logo {
+    width: 70%;
+    height: 100px;
+    margin: 0 auto 20px auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.works--logo {
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}

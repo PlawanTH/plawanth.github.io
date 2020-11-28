@@ -1,0 +1,22 @@
+.main--wrapper {
+    height: 70vh;
+    margin-top: var(--navbar-height);
+}
+
+.main--content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin:auto;
+}
+
+.main--logo {
+    width: 30%;
+}
+
+.main--slogan {
+    letter-spacing: 5px;
+}
