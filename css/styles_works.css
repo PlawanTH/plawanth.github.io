@@ -19,3 +19,8 @@
     text-align: center;
     margin: 0 auto;
 }
+
+#works a {
+    color: #f37835;
+    text-decoration: none;
+}
