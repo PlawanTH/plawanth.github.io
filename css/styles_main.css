@@ -1,5 +1,5 @@
 .main--wrapper {
-    height: 70vh;
+    height: 95vh;
     margin-top: var(--navbar-height);
 }
 
@@ -20,4 +20,14 @@
 .main--slogan {
     letter-spacing: 5px;
     text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .main--logo {
+        width: 50%;
+    }
+
+    .main--slogan {
+        font-size: 0.8rem;
+    }
 }

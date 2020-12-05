@@ -45,14 +45,13 @@ body {
 }
 
 .col {
-    padding: 20px 30px;
+    padding: 20px 30px; /* IMPROVE ME :: No padding for column */
     /* margin: 20px auto; */
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
 }
-
 .col-1 {
     width: 100%;
 }
@@ -116,5 +115,17 @@ p {
 @media screen and (max-width: 600px) {
     .col-s-1 {
         width: 100%;
+    }
+
+    .wrapper__padded {
+        padding: 50px 0;
+    }
+
+    h1 {
+        font-size: 1.7rem;
+    }
+
+    body {
+        font-size: 1.1rem;
     }
 }

@@ -5,3 +5,9 @@
 #goals .content span {
     color: #f37835;
 }
+
+@media screen and (max-width: 600px) {
+    #goals p {
+        font-size: 1.1rem;
+    }
+}
