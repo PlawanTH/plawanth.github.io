@@ -10,3 +10,5 @@
 ### Changed
 
 - Change font size and layout for mobile device
+
+[0.0.1]: https://github.com/PlawanTH/plawanth.github.io/releases/tag/v0.0.1
